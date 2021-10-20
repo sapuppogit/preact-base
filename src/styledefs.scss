@@ -1,0 +1,21 @@
+$application-background: #33aaff;  // Overridden by theme
+
+$font-stack-sans: 'Raleway', -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+$font-stack-mono: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+
+$navbar-height: 50px;
+
+$text-color-default: #ddd;
+$text-color-link: #29b6f6;
+
+$transition-len: 400;
+$transition-len-ms: $transition-len + 0ms;
+$transition-len-short: 200;
+$transition-len-short-ms: $transition-len-short + 0ms;
+
+$panel-color: rgba(#fff, .9);
+$panel-color-test: rgba(27, 12, 19, 0.8);
+$panel-text-color: #111;
+$panel-text-color-test: #ddd;
