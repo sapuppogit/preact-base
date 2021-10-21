@@ -1,5 +1,5 @@
 {
-  "name": "Preact Base",
+  "name": "Preact-base",
   "version": "0.1.0",
   "description": "Preconfigured preact project to quickly start coding",
   "private": true,
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sapuppogit/preact-base-structure.git"
+    "url": "https://github.com/sapuppogit/preact-base.git"
   },
   "author": "Samuel S.",
   "license": "GPL-3.0",
